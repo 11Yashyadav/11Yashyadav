@@ -16,4 +16,6 @@
 [![](https://visitcount.itsvg.in/api?id=11Yashyadav&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🐍 Snake Animation
-![snake gif](https://github.com/11Yashyadav/11Yashyadav/blob/output/github-contribution-grid-snake.svg
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/adiwanwade/adiwanwade/output/snake.svg" alt="Snake animation" style="box-shadow: 0px 4px 15px rgba(0, 255, 0, 0.6)"/>
