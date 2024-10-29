@@ -14,3 +14,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 [![](https://visitcount.itsvg.in/api?id=11Yashyadav&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🐍 Snake Animation
+![snake gif](https://github.com/11Yashyadav/11Yashyadav/blob/output/github-contribution-grid-snake.svg
