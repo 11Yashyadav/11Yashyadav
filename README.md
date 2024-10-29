@@ -9,14 +9,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=11Yashyadav&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=11Yashyadav&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=11Yashyadav&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-## 🐍Snake Animation
-<img src="https://github.com/11Yashyadav/11Yashyadav/blob/output/snake.svg" alt="Snake animation" />
-
----
 [![](https://visitcount.itsvg.in/api?id=11Yashyadav&icon=0&color=0)](https://visitcount.itsvg.in)
