@@ -22,10 +22,21 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      - name: Debug file location
+        run: |
+          echo "Searching for SVG files..."
+          find . -type f -name "*.svg" -print
+
       - name: Prepare output directory
         run: |
           mkdir -p dist
-          mv pacman-contribution-graph.svg dist/
+          FILE=$(find . -type f -name "pacman-contribution-graph.svg" | head -n 1)
+          if [ -z "$FILE" ]; then
+            echo "❌ Error: pacman-contribution-graph.svg not found!"
+            exit 1
+          fi
+          echo "✅ Found SVG at: $FILE"
+          mv "$FILE" dist/
 
       - name: Push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
